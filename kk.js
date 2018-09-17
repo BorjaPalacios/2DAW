@@ -1,5 +1,5 @@
 function greet(){
-    return "Hola Borja";
+    return "Hola Borja, q tal?";
 }
 
 console.log(greet());
